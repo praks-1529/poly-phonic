@@ -36,19 +36,18 @@ def extract_last_two_parts(path):
 
 
 def get_audio_path(model, vocoder):
-    src = 'https://github.com/praks-1529/poly-phonic/blob/main/samples/speech_%s_%s_output.wav' % (
+    src = 'https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_%s_%s_output.wav' % (
         extract_last_two_parts(model), extract_last_two_parts(vocoder))
     return f'<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="{src}">Your browser does not support the audio tag.</audio>'
 
 
 # Prepare the final DataFrame with the desired columns and formatting
 final_df = pd.DataFrame({
+    'Sample': merged_df.apply(lambda x: get_audio_path(x['Model'], x['Vocoder']), axis=1),
     'Model': merged_df['Model'],
     'Vocoder': merged_df['Vocoder'],
     'Duration (device=cpu)': merged_df['Duration_cpu'],
     'Duration (device=cuda)': merged_df['Duration_cuda'],
-    'SampeLink': merged_df.apply(lambda x: get_audio_path(x['Model'], x['Vocoder']), axis=1),
-    # 'Sample':
 })
 
 # Convert the final DataFrame to a list of strings, with each line ending in '|'
