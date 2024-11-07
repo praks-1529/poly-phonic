@@ -11,7 +11,7 @@ With this script, you can regenerate samples using various model/vocoder options
 All the runs were executed on a `g4dn.xlarge` EC2 machine which has 4 CPU and `NVIDIA T4` GPU. 
 
 # Results
-All the below speech samples are for below text
+All the speech samples are generated for the following text
 
 ```
 Rescuers found the crew scattered across the deck, frozen in terror, mouths open, eyes wide, and their bodies contorted as if witnessing something horrifying. There were no signs of injury or struggle, but something had clearly gone terribly wrong. Earlier, a haunting SOS message had been received, ending with the simple, I die. Right as they were about to tow the ship, a fire erupted from the cargo hold.  and they were forced to evacuate. They barely escaped before the ship exploded and sank, taking the evidence with it and leaving us with a dark unsolved mystery.
