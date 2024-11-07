@@ -49,23 +49,16 @@ cuda_df['Device'] = 'cuda'
 merged_df = pd.merge(cpu_df, cuda_df, on=[
                      "Model", "Vocoder"], suffixes=("_cpu", "_cuda"))
 
-# Extract the last two parts of a path
-# Example: /content/speech_combo/tacotron2/hifigan
-# Output: tacotron2_hifigan
-
-
-def extract_last_two_parts(path):
-    parts = Path(path).parts[-2:]
-    return "_".join(parts)
-
 
 def get_audio_path(model, vocoder):
-    src = 'https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_%s_%s_output.wav' % (
-        extract_last_two_parts(model), extract_last_two_parts(vocoder))
-    return f'[Play simple]({config.get_info(vocoder, model, "link")})'
+    """ Returns a markdown link to the audio file for the given model and vocoder """
+    src = 'https://gabalpha.github.io/read-audio/?p=%s' % (
+        config.get_info(vocoder, model, "link"))
+    return f'[<svg xmlns="http://www.w3.org/2000/svg" width=25 height=25 viewBox="0 0 384 512"><path fill="#FFDD00" d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80L0 432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg>]({src})'
 
 
 def get_stars(model, vocoder):
+    """ Returns a string representation of the star rating for the given model and vocoder """
     stars_to_str = {
         -1: '☆☆☆☆',
         0: '☆☆☆☆',

@@ -9,11 +9,13 @@ output_json = "config.json"
 
 
 def extract_last_two_parts(path):
+    """ Extract and concatenate last two parts of a path """
     parts = Path(path).parts[-2:]
     return "_".join(parts)
 
 
 def get_audio_src(model, vocoder):
+    """ Generate the audio source link for the given model and vocoder """
     return 'https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_%s_%s_output.wav' % (
         extract_last_two_parts(model), extract_last_two_parts(vocoder))
 
