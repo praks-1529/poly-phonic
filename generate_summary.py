@@ -38,7 +38,7 @@ def extract_last_two_parts(path):
 def get_audio_path(model, vocoder):
     src = 'https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_%s_%s_output.wav' % (
         extract_last_two_parts(model), extract_last_two_parts(vocoder))
-    return f'<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="{src}">Your browser does not support the audio tag.</audio>'
+    return f'[Play sample](https://gabalpha.github.io/read-audio/?p={src})'
 
 
 # Prepare the final DataFrame with the desired columns and formatting
