@@ -1,0 +1,590 @@
+[
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": 3,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": 2,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/glow-tts",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": 2,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_glow-tts_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/glow-tts",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_glow-tts_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/glow-tts",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": 2,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_glow-tts_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/glow-tts",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_glow-tts_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/glow-tts",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_glow-tts_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/glow-tts",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_glow-tts_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/glow-tts",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_glow-tts_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/speedy-speech",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_speedy-speech_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/speedy-speech",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": 2,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_speedy-speech_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/speedy-speech",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_speedy-speech_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/speedy-speech",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": 2,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_speedy-speech_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/speedy-speech",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_speedy-speech_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/speedy-speech",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_speedy-speech_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/speedy-speech",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_speedy-speech_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DCA",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": 3,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DCA_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DCA",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DCA_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DCA",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": 3,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DCA_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DCA",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DCA_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DCA",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DCA_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DCA",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DCA_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DCA",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DCA_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/fast_pitch",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_fast_pitch_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/fast_pitch",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": 2,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_fast_pitch_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/fast_pitch",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_fast_pitch_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/fast_pitch",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_fast_pitch_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/fast_pitch",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_fast_pitch_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/fast_pitch",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_fast_pitch_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/fast_pitch",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": 2,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_fast_pitch_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits--neon",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits--neon_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits--neon",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits--neon_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits--neon",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits--neon_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits--neon",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits--neon_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits--neon",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits--neon_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits--neon",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits--neon_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/vits--neon",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_vits--neon_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/overflow",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_overflow_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/overflow",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": 3,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_overflow_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/overflow",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_overflow_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/overflow",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_overflow_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/overflow",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_overflow_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/overflow",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_overflow_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/overflow",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_overflow_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/neural_hmm",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_neural_hmm_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/neural_hmm",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": 3,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_neural_hmm_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/neural_hmm",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_neural_hmm_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/neural_hmm",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": 2,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_neural_hmm_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/neural_hmm",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_neural_hmm_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/neural_hmm",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_neural_hmm_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/neural_hmm",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_neural_hmm_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC_ph",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": 3,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_ph_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC_ph",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_ph_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC_ph",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": 3,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_ph_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC_ph",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_ph_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC_ph",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_ph_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC_ph",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_ph_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/ljspeech/tacotron2-DDC_ph",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_ljspeech_tacotron2-DDC_ph_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c50",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c50_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c50",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c50_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c50",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c50_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c50",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c50_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c50",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": 2,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c50_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c50",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c50_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c50",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c50_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c150_v2",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c150_v2_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c150_v2",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c150_v2_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c150_v2",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c150_v2_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c150_v2",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c150_v2_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c150_v2",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": 3,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c150_v2_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c150_v2",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": 1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c150_v2_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/blizzard2013/capacitron-t2-c150_v2",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": 0,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_blizzard2013_capacitron-t2-c150_v2_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/multi-dataset/tortoise-v2",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": 4,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_multi-dataset_tortoise-v2_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/multi-dataset/tortoise-v2",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": 4,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_multi-dataset_tortoise-v2_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/multi-dataset/tortoise-v2",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": 4,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_multi-dataset_tortoise-v2_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/multi-dataset/tortoise-v2",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": 3,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_multi-dataset_tortoise-v2_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/multi-dataset/tortoise-v2",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": 4,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_multi-dataset_tortoise-v2_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/multi-dataset/tortoise-v2",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": 4,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_multi-dataset_tortoise-v2_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/multi-dataset/tortoise-v2",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": 4,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_multi-dataset_tortoise-v2_sam_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/jenny/jenny",
+        "vocoder": "vocoder_models/en/ljspeech/univnet",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_jenny_jenny_ljspeech_univnet_output.wav"
+    },
+    {
+        "model": "tts_models/en/jenny/jenny",
+        "vocoder": "vocoder_models/en/ljspeech/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_jenny_jenny_ljspeech_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/jenny/jenny",
+        "vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_jenny_jenny_ljspeech_multiband-melgan_output.wav"
+    },
+    {
+        "model": "tts_models/en/jenny/jenny",
+        "vocoder": "vocoder_models/en/ek1/wavegrad",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_jenny_jenny_ek1_wavegrad_output.wav"
+    },
+    {
+        "model": "tts_models/en/jenny/jenny",
+        "vocoder": "vocoder_models/en/blizzard2013/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_jenny_jenny_blizzard2013_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/jenny/jenny",
+        "vocoder": "vocoder_models/en/vctk/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_jenny_jenny_vctk_hifigan_v2_output.wav"
+    },
+    {
+        "model": "tts_models/en/jenny/jenny",
+        "vocoder": "vocoder_models/en/sam/hifigan_v2",
+        "stars": -1,
+        "link": "https://github.com/praks-1529/poly-phonic/raw/refs/heads/main/samples/speech_jenny_jenny_sam_hifigan_v2_output.wav"
+    }
+]
